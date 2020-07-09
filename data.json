@@ -1,0 +1,30 @@
+[
+ {
+ "student_Id":"1",
+ "student_name":"Ahmed",
+ "class":"4",
+ "age":9
+ },
+   
+ {
+ "student_Id":"2",
+ "student_name":"Saleh",
+ "class":"9",
+ "age":14
+ },
+ 
+ {
+ "student_d":"3",
+ "student_name":"Ali",
+ "class":"7",
+ "age":12
+ },
+ 
+ {
+ "student_d":"4",
+ "student_name":"essa",
+ "class":"7",
+ "age":11
+ }
+ 
+] 

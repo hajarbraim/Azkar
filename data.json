@@ -1,9 +1,11 @@
-[
- {
- "ID" :"1",
- "User ID" :"Ahmed",
- "Title" :"4",
- "Text": 9
- }
- 
-] 
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
